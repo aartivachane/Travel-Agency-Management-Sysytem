@@ -1,1 +1,1 @@
-# Travel-Agency-Management-System
+# TravelEase Solution
